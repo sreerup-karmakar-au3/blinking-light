@@ -1,0 +1,19 @@
+.bulb {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid #e0e0e0;
+}
+
+#content {
+    border: 1px solid #bdbdbd;
+    border-radius: 15%;
+	padding: 15px;
+}
+
+.titlebox {
+	float: left;
+	padding: 0 5px;
+	margin: -25px 0 0 30px;
+	background: #fff;
+}
